@@ -9,7 +9,7 @@
 }
 
 .app__bg {
-  background: url('./assets/bg.png');
+  background: url('https://res.cloudinary.com/stand/image/upload/v1673972361/assets/ddejv8pcltlbbp82fhvl.png');
   background-position: center;
   background-size: cover;
   background-repeat: repeat;
